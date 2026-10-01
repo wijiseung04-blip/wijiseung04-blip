@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**wijiseung04-blip/wijiseung04-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 학습 목표
+-Java를 활용한 프로그래밍 역량 향상
+-데이터베이스 설계 및 관리 이해하기
+-웹 페이지 개발 능력 갖추기
+-Github 활용한 관리 및 협업 능력 갖추기
+-컴퓨터 네트워크 지식 습득하기
+-이산 수학을 통한 논리적 사고력 및 문제 해결 능력 향상
+-배운  기술과 이론 적용하여 프로젝트 수행하기
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##관심 분야
+-Java
+-MySQL
+-Github
+-Spring boot
+-Computer Network
+-이산 수학
